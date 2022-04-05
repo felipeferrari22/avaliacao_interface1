@@ -5,8 +5,8 @@ public class Principal {
 
         System.out.println("O nome da pessoa é "+p.getNome());
         System.out.println("A idade da pessoa é "+p.getIdade());
-        System.out.println("Adicionar"+p.getAdicionar());
-        System.out.println("Remover"+p.getRemover());
-        System.out.println("Pesquisar"+p.getPesquisar());
+        System.out.println("Adicionando a pessoa"+p.getAdicionar());
+        System.out.println("Removendo a pessoa"+p.getRemover());
+        System.out.println("Pesquisando a pessoa"+p.getPesquisar());
     }
 }
